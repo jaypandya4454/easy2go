@@ -1,0 +1,85 @@
+.ci {
+    height: 650px;
+}
+
+.sources{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+.si img {
+    height: 180px;
+}
+
+.si .c1:hover{
+    transform: scale(1.1);
+    transition: 0.9s;
+    box-shadow: 0px 0px  2px gray;
+}
+
+.more {
+    margin-left: 680px;
+    width: 150px;
+}
+
+.pc{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+.national{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.ni img {
+    /* height: 350px; */
+}
+
+.ni img:hover {
+    opacity: 0.5;
+}
+
+.ni .c1:hover{
+    transform: scale(1.1);
+    transition: 0.9s;
+    box-shadow: 0px 0px  2px gray;
+}
+
+/* .package{
+    background-image: url(img/christoffer-engstrom-8NuHwPbO62k-unsplash.jpg);
+} */
+/* 
+/*  */
+.off{
+    width: 400px;
+    height: 400px;
+}
+.offer {
+    position: relative;
+    
+}
+
+.er1{
+    background-image: url('img/offer.jpg');
+    background-size: cover;
+    background-position: 0%;
+}
+
+
+.er1 h1{
+    font-size: 55px;
+    color:#002D62; 
+    /* color:#FFD700; */
+    /* color: #FFC72C; */
+    }
+
+.er1 p {
+    font-size: 20px;
+}
